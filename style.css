@@ -1,0 +1,75 @@
+.main-header{
+    padding: px;
+    text-align: center;
+    margin: 0px;
+    background-color: blue;
+    height: 280px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background: url("./img/accomplishment-ceremony-education-graduation-267885\(1\).jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 20px;
+    box-shadow: 20px 20px 2px  rgb(80, 65, 65);
+}
+
+.header-text{
+    
+    position: relative;
+    top: 75px;
+    left: 40px;
+    text-shadow: 10px 2px 5px  rgb(236, 198, 198);
+
+
+}
+.eec{
+    font-size: 35px;
+}
+
+.dis{
+    font-size: 20px;
+}
+
+
+
+.services{
+    background-color: crimson;
+    width: 58%;
+    height: px;
+    text-align: center;
+    background: url("./img/art-art-materials-brush-color-207666.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 20px;
+    box-shadow: 20px 20px 20px  rgb(80, 65, 65);
+}
+
+
+
+.contact{
+    background-color: rgb(221, 210, 207);
+    height: 100px;
+    width: 100%;
+    float: none;
+}
+
+.order{
+    background-color: lightblue;
+    width: 40%;
+    height: 350px;
+    position: relative;
+    top:-398px;
+    left: 779px;
+    border-radius: 20px;
+    box-shadow: 20px 20px 20px  rgb(80, 65, 65);
+    
+}
+
+.contact{
+    position: relative;
+    top: -350px;
+    border-radius: 20px;
+    box-shadow: 20px 20px 20px  rgb(80, 65, 65);
+    text-align: center;
+}
